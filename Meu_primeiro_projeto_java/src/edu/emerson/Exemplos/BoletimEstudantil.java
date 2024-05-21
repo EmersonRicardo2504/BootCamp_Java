@@ -1,4 +1,4 @@
-package edu.emerson.primeira_semana;
+package edu.emerson.Exemplos;
 
 public class BoletimEstudantil {
 

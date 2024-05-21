@@ -1,6 +1,6 @@
 
 // Podemos realizar importações apartir de diretorios usando:
-package edu.emerson.primeira_semana;
+package edu.emerson.Exemplos;
 
 
 // Sempre declarar as variavel conforme o nome do arquivo java.
